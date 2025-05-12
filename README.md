@@ -1,6 +1,6 @@
 # Xeus-Lite demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-lite-demo/notebooks/?path=demo.ipynb)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ccb-hms.github.io/af3_workshop_exercise_05_visualizing_interpreting/)
 
 This GitHub template allows you to create deployments of JupyterLite with a custom set of conda packages.
 
