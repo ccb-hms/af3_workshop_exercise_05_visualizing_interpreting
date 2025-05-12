@@ -9,3 +9,6 @@ dependencies:
   - matplotlib
   - numpy
   - nglview
+  - pip:
+      - biopython
+      - ipymolstar
